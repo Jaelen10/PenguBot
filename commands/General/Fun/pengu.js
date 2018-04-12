@@ -1,7 +1,7 @@
 const { Command } = require("klasa");
 
-const pics = ["http://i.imgur.com/Urfp335.png",
-    "http://i.imgur.com/gC8v9fp.jpg", "http://i.imgur.com/DZ6YtvT.jpg", "http://i.imgur.com/LdWARAL.jpg",
+const pics = ["http://i.imgur.com/Urfp335.png", "https://i.imgur.com/LbG8VSi.gif", "https://i.imgur.com/rLziq.jpg",
+    "http://i.imgur.com/gC8v9fp.jpg", "http://i.imgur.com/DZ6YtvT.jpg", "http://i.imgur.com/LdWARAL.jpg", 
     "http://i.imgur.com/7uF0u9Q.jpg", "http://i.imgur.com/0vgVnpr.png", "http://i.imgur.com/1GKlyH2.png",
     "http://i.imgur.com/jlzSELQ.png", "https://i.imgur.com/Vm98hJq.png", "https://i.imgur.com/RF4JeC8.png",
     "https://i.imgur.com/Co26qmr.png", "https://i.imgur.com/ixSGy7V.jpg", "https://i.imgur.com/WzsIIzN.png",
